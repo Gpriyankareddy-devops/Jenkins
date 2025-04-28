@@ -1,0 +1,30 @@
+
+
+
+write the skills in workday.
+
+
+anand abt the testcases of mias.
+
+why the audit in the tables?:asked Krishna
+need to go through the flow of the tables.:asked Krishna
+
+
+take the scenarios from the excel
+wht is bom
+
+UI:
+all the dat should be shown in the ui if we get the orderresponse as 100 rows everything has to come
+cscore while interaction for suppose 4 si's we are getting only for 1 si wht ius that we are doing for the other si's if we didnot get the data.
+Autorisation for the people like based on the roles.
+
+Jeni::::
+attributes:50
+json flow
+siinjection flow
+i know sonumber->fulfiment-->
+
+
+
+old code to cscore
+ for every thing ask every one that wht they are copvering>
