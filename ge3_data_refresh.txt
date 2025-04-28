@@ -1,0 +1,5 @@
+apj: can able to create the lbl but assetdata is not getting saved,cannot able to assign the sharenames
+dao:counter_admin,chassis_to_sdr in gcu.
+emea:cannot able to assign the sharenames.
+emea is done.,apj:part_promotion(done),dao:counter_admin(done),gcu:sdr
+
