@@ -1,0 +1,54 @@
+1.salessite
+2.projectview->modify lob,chasis.
+3.administartive->FACTORYELIGIBILITY>list rules.
+4.TECHSPEC->PART NUMER(123-RT56)
+5.OEI 
+6.PREPILOTSELCT
+7.pioltQueue
+8.sustain engineer
+
+apcc-ge4:410202--in services i am getting issue
+
+ccc-ge3:
+463332--cannot able to create the pioltid.
+ge4-dao--created:B75J62(active).
+si creation:
+1.projectview
+2.Administrative--upto here it is done.orde
+3.orderentrypage
+4.techspecpage
+5.pre-pioltselect
+6.pioltqueue
+7.sutain engineer
+project copy
+project view->sale quote numebr->modify lob->notepad->add->back->editchasislist(button)->add it(anything)->save &exit->save->(projectsavsucessfully).
+go to gpt home->administrative->in other table->)factory eligibility rules(edit)->click project->give si number->click list ules->type(dirct)->factory anything,selectan proiority anythin->clcik add.
+come back->gotosection lo techspec page->complete->orderentry->AcknowledgeSkus->save->complete->dropdown->techspec->incompleted you hae to see the yes status ->click signoff->signoff(give the dates here)
+prepoilt select in the dropdown->add->in poilt level->fullpoilt->pre-piolt lo->complete->piolt quote->quote version->pilot order number->servicetag->the highlighted u have to check->click on review completed->ready to submit
+select and copy the piolt id->click on submitall->select piolt queue->paste the poiltid ->clcik on search->select pioltid(edit)->pilotstatus(inpoilt)->save->select passed piolt in poiltstatus->save&exit
+gotosession->select sustain eng->select manufacturing as"passed"'.
+gotosession->selectorderentryinsruction(in doms project status->should be active).
+ge4-dao:
+B75J60--in sustain engineering  didnot get the audit flags
+ge3--apcc
+243826--need to satrt from start
+Extra points for apj_si:
+1.go back to project view->project tracking give date.->edit0>give frcdate
+2.projectrelease singoff->checkbox procurement signoff.,pm signoff
+
+
+
+
+Emea-si creation:
+BF70CD
+1.Track Projects
+2.slect project copy->ok
+project view->right side DPMO->MAKE it completed
+techspec->edit services
+
+
+dao_ge4
+B75J57---done the dr and acprod
+B75J51---done dr and pop
+1.
+
